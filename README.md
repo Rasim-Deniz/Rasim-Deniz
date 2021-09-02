@@ -6,8 +6,8 @@ Currently, I'm pursuing a career in Web Development and taking firm steps on thi
 -->
 #### Few things about me:
 
-- 📈 I’m currently studying at [HackYourFuture Copenhagen](https://github.com/HackYourFuture-CPH)
-- 📚 I’m currently learning React :electron:
+- 📈 I’m currently studying at [DTU](https://www.dtu.dk/english)
+- 📚 I’m currently learning Python :electron:
 - 🤔 I’m looking for contributions that everyone may benefit from.
 - 😄 Pronouns: Calm, helper, distinct
 - 📫 How to reach me: rasimdeniz1996@gmail.com or [LinkedIn](https://www.linkedin.com/in/rasim-deniz-2061101b1/)
