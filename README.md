@@ -1,20 +1,23 @@
-### Hi! 👋 I'm Rasim.
+# Hi there! 👋 I'm Rasim
 
-Currently, I'm pursuing a career in Web Development and taking firm steps on this path.:fire:
-<!--
-**Rasim-Deniz/Rasim-Deniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-#### Few things about me:
+I'm a **Front-End Developer** always looking for new challenges. I love learning new technologies and working on exciting projects. Currently, my main stack includes **TypeScript, React, and JavaScript**.
 
-- 📈 I’m currently studying at [DTU](https://www.dtu.dk/english)
-- 📚 I’m currently learning PHP :electron:
-- 🤔 I’m looking for contributions that everyone may benefit from.
-- 😄 Pronouns: Calm, helper, distinct
-- 📫 How to reach me: rasimdeniz1996@gmail.com or [LinkedIn](https://www.linkedin.com/in/rasim-deniz-2061101b1/)
+## 🚀 About Me
+- 🎓 I recently completed my **MSc in Computer Science and Engineering** at [DTU](https://www.dtu.dk/english).
+- 📚 Currently learning **PHP**.
+- 🤝 Looking to collaborate on projects where I can **grow my skills** and **contribute meaningfully**.
+- 😄 **Traits:** Calm, team player.
+- ⚡ **Fun fact:** I love *Berserk* <img src="https://crystalpng.com/wp-content/uploads/2024/08/BERSERK-LOGO.png" alt="Berserk Sacrifice Icon" width="20" height="20">
+- 📫 **How to reach me:** 📧 [Email](mailto:rasimdeniz1996@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rasim-deniz-2061101b1/)
 
-#### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" height="30">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" height="30">
+</p>
